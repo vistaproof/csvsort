@@ -1,0 +1,5 @@
+github.com/jfcg/opt v0.3.0 h1:r+t4hbLD97vucimMTQlLXVKi43XVvmlv3tvs9BOPJSc=
+github.com/jfcg/sixb v1.3.5 h1:K9b9cjTlPBH47+1xiyUftR2Edk7/qkoQv5m+MfJXbko=
+github.com/jfcg/sixb v1.3.5/go.mod h1:UWrAr1q9s7pSPPqZNccmQM4N75p8GvuBYdFuq+09Qns=
+github.com/jfcg/sorty/v2 v2.0.8 h1:x8vUzFP7KADIrEsGdrn3vHynpr72zmOVwUezoZnMG4w=
+github.com/jfcg/sorty/v2 v2.0.8/go.mod h1:KIEfHyaX4UWOg0mTYJEtpfVaXssBgjH7UXcWcJeLcJ8=
